@@ -1,0 +1,24 @@
+<svg width="800" height="534" viewBox="0 0 800 534" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Group 1">
+<rect id="small 1" width="800" height="534" fill="url(#pattern0)"/>
+<rect id="Rectangle 1" width="800" height="534" fill="#D9D9D9" fill-opacity="0.18"/>
+<path id="floor-8" d="M413 215L632 185.5V215L413 238.5V215Z" stroke="black"/>
+<path id="floor-9" d="M414.5 192L632 157.5V184L414.5 212.5V192Z" stroke="black"/>
+<path id="floor-10" d="M392 159L613.5 117.5V141L392 180V159Z" stroke="black"/>
+<path id="floor-11" d="M392.5 125.5L614 77.5V111L392.5 154V125.5Z" stroke="black"/>
+<path id="floor-12" d="M612.5 37L393.5 91.5V121L612.5 71V37Z" stroke="black"/>
+<path id="floor-1" d="M413 424.5V404H632V430L413 424.5Z" stroke="black"/>
+<path id="floor-5" d="M393.5 318V293.5L612.5 276V302.5L393.5 318Z" stroke="black"/>
+<path id="floor-6" d="M394 268.5L614 247.5V272.5L394 289.5V268.5Z" stroke="black"/>
+<path id="floor-7" d="M414.5 240L632 215.5V241.5H625.5L621.5 235L414.5 256.5V240Z" stroke="black"/>
+<path id="floor-4" d="M393.5 341V323L612.5 307.5V332.5L393.5 341Z" stroke="black"/>
+<path id="floor-3" d="M413 371V352L630.5 345.5V366.5L413 371Z" stroke="black"/>
+<path id="floor-2" d="M413 401V375L630.5 371L631 401H413Z" stroke="black"/>
+</g>
+
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1_4" transform="scale(0.00125 0.00187266)"/>
+</pattern>
+
+
+</svg>

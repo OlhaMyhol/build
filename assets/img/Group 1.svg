@@ -1,0 +1,15 @@
+<svg width="1200" height="801" viewBox="0 0 1200 801" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Group 1">
+<rect id="build 1" width="1200" height="801" fill="url(#pattern0)"/>
+<path id="build-3" d="M754.5 430L710 439.5V603.5L995.5 612V618.5H1011.5V626.5H1036L1052.5 618.5V569.5L1056.5 564.5V551.5H1047.5L1042.5 536.5H1056.5V523.5L1042.5 521V509.5H1062V498L1052.5 493.5V479.5L1030.5 454.5L1006 448.5V422.5L987.5 403L897.5 413V389.5L862.5 362.5L836.5 368.5L822.5 357L754.5 374V430Z" stroke="black"/>
+<path id="build-2" d="M700 445.5L601 464V603H704L700 445.5Z" stroke="black"/>
+<rect id="Rectangle 1" width="1200" height="801" fill="#D9D9D9" fill-opacity="0.25"/>
+<path id="build-1" d="M308 158L432 223V129L554 205V618.5L305.5 625H249.5V611H231L235.5 232.5L308 158Z" stroke="black"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1_4" transform="scale(0.000833333 0.00124844)"/>
+</pattern>
+<image id="image0_1_4" data-name="build.png" width="1200" height="801" xlink:href="assets/img/build.png"/>
+
+</svg>
